@@ -1,7 +1,7 @@
-# Churn Classification for Bank Customers
+# **Churn Classification for Bank Customers**
 > This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer. Dataset which contain some customers who are withdrawing their account from the bank due to some loss and other issues with the help this data we try to analyse and maintain accuracy.
 
-> ## **Dataset Content**
+## **Dataset Content**
 We've Dataset with  10000 rows and 14 columns that're :
 1. RowNumber—corresponds to the record (row) number and has no effect on the output.
 2. CustomerId—contains random values and has no effect on customer leaving the bank.
@@ -18,3 +18,4 @@ We've Dataset with  10000 rows and 14 columns that're :
 13. EstimatedSalary—as with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries.
 14. Exited—whether or not the customer left the bank.
 
+**For more information about dataset and problem :** https://www.kaggle.com/shrutimechlearn/churn-modelling
